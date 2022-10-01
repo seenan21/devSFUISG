@@ -8,7 +8,7 @@ just_the_docs:
   collections:
     # Reference the "tests" collection
     courseresources:
-      permalink: "/_courseresources
+      permalink: "/_courseresources/"
       output: true
 
 callouts:
