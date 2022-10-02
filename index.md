@@ -10,7 +10,7 @@ has_children: false
 This is some basic, sample markdown.
 
 
-{: .warning }
+{: .careful }
 A paragraph...
 
 
