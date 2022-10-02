@@ -5,9 +5,14 @@ nav_order: 1
 has_children: false
 ---
 
-# Sample Markdown
+# Home
 
 This is some basic, sample markdown.
+
+
+{: .warning }
+A paragraph...
+
 
 ## Second Heading
 
